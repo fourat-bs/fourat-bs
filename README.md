@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fourat</h1>
 <h3 align="center">A passionate Software/ML student from Tunisia</h3>
 
-- 🔭 I’m currently doing my graduation internship in NLP **Automation of the Lead Generation process**
+- 🔭 I’m currently doing my graduation internship in NLP: **Automation of the Lead Generation process**
 
 - 🌱 I’m currently learning **MLOps, Machine Learning Systems design patterns**
 
@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/fourat-ben-salah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fourat-ben-salah/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/fourat-ben-salah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fourat-ben-salah/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
