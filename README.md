@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Fourat</h1>
 <h3 align="center">A passionate Software/ML student from Tunisia</h3>
 
-- 🔭 I’m currently doing my graduation internship in NLP: **Automation of the Lead Generation process**
+- 🔭 I’m currently doing my graduation internship in NLP: **Automation of the Lead Generation Process**
 
 - 🌱 I’m currently learning **MLOps, Machine Learning Systems design patterns**
 
-- 💬 Ask me about **NLP, Computer Vision and backend development**
+- 💬 Ask me about **NLP, Computer Vision and Backend development**
 
 - 📫 How to reach me **med.fourat.ben.salah@gmail.com**
 
