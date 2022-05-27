@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **NLP, Computer Vision and Backend development**
 
-- 📫 How to reach me **med.fourat.ben.salah@gmail.com**
+- 📫 How to reach me **mohamedfouratb@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
