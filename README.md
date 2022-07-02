@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fourat</h1>
-<h3 align="center">A passionate Software/ML student from Tunisia</h3>
+<h3 align="center">A passionate Junior Software Engineer</h3>
 <p align="center">
 <img  src="https://github.com/fourat-bs/fourat-bs/blob/main/cat_dev.gif" style="width: 35%;"/>
 </p>
