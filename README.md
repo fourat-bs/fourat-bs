@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Fourat</h1>
-<h3 align="center">A passionate Junior Software Engineer</h3>
+<h3 align="center">A passionate Junior DevOps & Cloud Engineer</h3>
 <p align="center">
 <img  src="https://github.com/fourat-bs/fourat-bs/blob/main/cat_dev.gif" style="width: 35%;"/>
 </p>
 
 
-- 🌱 I’m currently learning **MLOps, Machine Learning Systems design patterns**
+- 🌱 I’m currently learning in depth**Linux, Unix & Kubernetes**
 
-- 💬 Ask me about **NLP, Computer Vision and Backend development**
+- 💬 Ask me about **DevOps, Cloud computing & Backend development**
 
 - 📫 How to reach me **mohamedfouratb@gmail.com**
 
